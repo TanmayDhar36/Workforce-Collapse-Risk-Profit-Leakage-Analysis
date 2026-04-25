@@ -1,4 +1,6 @@
 # 📊 Workforce Collapse Risk & Profit Leakage Analysis
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42602363-3337-460c-8f6a-27d00d43670f" />
+
 
 ## 🔍 Overview
 This project is a **People Analytics case study** analyzing workforce data of **1,000 employees** across multiple dimensions to uncover hidden business risks.
